@@ -15,7 +15,7 @@ Offsite Payments has been in production use (originally as part of the [ActiveMe
 
 You can check out the latest source from git:
 
-    git clone https://github.com/Shopify/offsite_payments.git
+    git clone https://github.com/MOLPay/offsite_payments.git
 
 ### From RubyGems
 
