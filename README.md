@@ -1,3 +1,17 @@
+WARNING!
+========
+
+<h3>Please be informed that this library has been obsoleted and marked as End-of-Life product.
+
+Kindly refer to the MOLPay hosted payment for Shopify merchant:-</h3>
+
+https://github.com/MOLPay/Hosted_Payment_for_Shopify
+
+
+------------------------------------------------------
+
+
+
 # Offsite Payments
 [![Build Status](https://travis-ci.org/Shopify/offsite_payments.png?branch=master)](https://travis-ci.org/Shopify/offsite_payments)
 [![Code Climate](https://codeclimate.com/github/Shopify/offsite_payments.png)](https://codeclimate.com/github/Shopify/offsite_payments)
