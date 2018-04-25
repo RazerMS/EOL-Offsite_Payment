@@ -1,7 +1,7 @@
 WARNING!
 ========
 
-<img src ="https://user-images.githubusercontent.com/38641542/39235176-c96b169e-48a7-11e8-995d-678c7ead3a45.jpg">
+<img src="https://user-images.githubusercontent.com/38641542/39238828-d3279860-48b1-11e8-97ce-f5355cd4919b.jpg">
 
 <h3>Please be informed that this library has been obsoleted and marked as End-of-Life product.
 
