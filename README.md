@@ -83,3 +83,13 @@ Or, if you're using Bundler, just add the following to your Gemfile:
 
 - This library is MIT licensed.
 - We will gladly accept contributions. See **CONTRIBUTING.md** for more information.
+
+
+## Resources
+
+- GitHub:     https://github.com/RazerMS
+- Website:    https://merchant.razer.com/
+- Twitter:    https://twitter.com/Razer_MS
+- YouTube:    https://www.youtube.com/c/RazerMerchantServices
+- Facebook:   https://www.facebook.com/RazerMerchantServices/
+- Instagram:  https://www.instagram.com/RazerMerchantServices/
